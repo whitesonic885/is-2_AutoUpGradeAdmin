@@ -1,0 +1,9 @@
+SCC = This is a Source Code Control file
+
+[AutoUpGradeAdmin.sln]
+SCC_Aux_Path = "\\is2\VSS_DB\is2_vss"
+SCC_Project_Name = "$/iStar2/iS_ap/app/net/AutoUpGradeAdmin", EGDAAAAA
+
+[AutoUpGradeAdmin.vbproj]
+SCC_Aux_Path = "\\is2\VSS_DB\is2_vss"
+SCC_Project_Name = "$/iStar2/iS_ap/app/net/AutoUpGradeAdmin", EGDAAAAA
